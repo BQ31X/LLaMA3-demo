@@ -64,6 +64,5 @@ This project is not intended for commercial use beyond the limitations described
 ## Credits & Tools
 
 - Fine-tuned using Google Colab Pro, Hugging Face PEFT, and Weights & Biases
-- Developed by [@BQ31X](https://github.com/BQ31X) (GitHub), and `FlamingNeuron` (Hugging Face)
-
+- Developed by [@BQ31X](https://github.com/BQ31X) (GitHub), aka [@FlamingNeuron](https://huggingface.co/FlamingNeuron) (Hugging Face)
 ---
